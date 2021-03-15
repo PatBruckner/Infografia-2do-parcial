@@ -1,0 +1,1 @@
+{"arqCode":"-- tap\nlocal panels = require(\"components.\"..UI.page..\".page_meta_panels\")\npanels:tap()\n-- panels:start(4, true) -- pause = true\nreturn true\n","triggerName":"but_Tap_code_381","myLName":""}

@@ -1,0 +1,1 @@
+{"arqCode":"-- whole image\nlocal panels = require(\"components.\"..UI.page..\".page_meta_panels\")\npanels:reset()","triggerName":"but_Whole_code_240","myLName":""}

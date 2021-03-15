@@ -1,0 +1,9 @@
+{"mySet":"panels","pageDir":"p1","layerSet":[{"myLName":"pn1","elX":-44,"elY":54,"elW":1346,"elH":558,"mX":629,"mY":333,"frameSet":[{"myLName":"11","elX":90,"elY":66,"elW":907,"elH":535,"mX":543,"mY":333},{"myLName":"12","elX":680,"elY":66,"elW":648,"elH":538,"mX":1004,"mY":335}]},{"myLName":"23","elX":0,"elY":627,"elW":890,"elH":609,"mX":445,"mY":931,"frameSet":[{"myLName":"21","elX":-21,"elY":647,"elW":435,"elH":568,"mX":196,"mY":931},{"myLName":"31","elX":0,"elY":627,"elW":890,"elH":609,"mX":445,"mY":931}]},{"myLName":"4","elX":916,"elY":647,"elW":422,"elH":560,"mX":1127,"mY":927,"frameSet":[
+
+]},{"myLName":"5","elX":-22,"elY":1249,"elW":448,"elH":603,"mX":202,"mY":1550,"frameSet":[
+
+]},{"myLName":"6","elX":461,"elY":1249,"elW":418,"elH":608,"mX":670,"mY":1553,"frameSet":[
+
+]},{"myLName":"7","elX":906,"elY":1247,"elW":429,"elH":610,"mX":1120,"mY":1552,"frameSet":[
+
+]}],"isComic":true,"myLName":"page","layerType":"meta","triggerName":"panels","custom":false}

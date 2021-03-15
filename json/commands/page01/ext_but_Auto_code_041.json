@@ -1,0 +1,1 @@
+{"arqCode":"-- auto\nlocal panels = require(\"components.\"..UI.page..\".page_meta_panels\")\npanels:reset()\npanels:start(1, false)","triggerName":"but_Auto_code_041","myLName":""}

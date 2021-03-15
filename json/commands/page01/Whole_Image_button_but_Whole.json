@@ -1,0 +1,1 @@
+{"actions":[{"external":{"externalCode":{"arqCode":"-- whole image\nlocal panels = require(\"components.\"..UI.page..\".page_meta_panels\")\npanels:reset()","triggerName":"but_Whole_code_240","myLName":"","year":"2016","vers":"4.0.8","today":"Saturday, June 09 2018 22:16:59","custom":""}}}],"bfun":"but_Whole","triggerName":"but_Whole","custom":false}
