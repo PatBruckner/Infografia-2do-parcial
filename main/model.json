@@ -1,0 +1,14 @@
+[
+{
+    "page":1, "alias":"page1", "isTmplt":false,
+        "background":{ "x":640, "y":960, "width":1650, "height":2200, "alpha" :1 , "ext":"jpg" },
+        "ballons":{ "x":681, "y":964, "width":1386, "height":1880, "alpha" :1 , "ext":"png" },
+        "Whole_Image":{ "x":225, "y":1628, "width":353, "height":63, "alpha" :1 , "ext":"png" },
+        "Tap":{ "x":676, "y":1630, "width":97, "height":60, "alpha" :1 , "ext":"png" },
+        "Auto":{ "x":1053, "y":1623, "width":127, "height":47, "alpha" :1 , "ext":"png" },
+    },
+{
+    "page":2, "alias":"page2", "isTmplt":false,
+        "background":{ "x":632, "y":960, "width":1424, "height":1920, "alpha" :1 , "ext":"jpg" },
+    },
+]
